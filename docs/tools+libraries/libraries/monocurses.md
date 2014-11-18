@@ -7,11 +7,12 @@ redirect_from:
 
 [![Screenshot1.png](/archived/images/8/81/Screenshot1.png)](/archived/images/8/81/Screenshot1.png)
 
-MonoCurses provides managed applications with an API to create console-based applications.
+MonoCurses fornece aplicativos gerenciados com uma API para criar aplicações baseadas em console.
 
-This API is still under development, and hence the library is not installed into the GAC.
+Esta API ainda está sob desenvolvimento e, por isso, a biblioteca não é instalado no GAC.
 
 In addition to the low-level curses bindings, currently MonoCurses ships with a minimal GUI toolkit for creating console applications.
+
 
 Obtaining mono-curses
 =====================
